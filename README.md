@@ -2,26 +2,28 @@
 <h2 align="left" >I'm nivwer</h2>
 
 ```
+
+
 - ⚡ Self-Taught Programmer
 - 💻 Working on personal projects
 - 🌱 Currently learning C#
 - 🧹 Enthusiast of order and clean code
-```
 
+
+```
 <br/>
 <h2 align="center" >Activity</h2>
+-->
+
+<!--
 
 <p align="center">
-  <img height="auto" width="420px" src="https://github-readme-stats.vercel.app/api?username=nivwer&show_icons=true&count_private=true&theme=nord&hide_border=true&hide=issues&bg_color=000000&title_color=888888&icon_color=888888&border_radius=0">
-  <img height="auto" width="278px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivwer&layout=compact&hide_border=true&theme=nord&bg_color=000000&title_color=888888&icon_color=888888&border_radius=0&langs_count=5&hide=css">
-  <img height="auto" width="287px" src="https://steamuserimages-a.akamaihd.net/ugc/1688275952686404152/803DFB22DBD6FBADC1D3D7CB74D177781E2CB921/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
-  <img height="auto" width="411px" src="https://github-readme-streak-stats.herokuapp.com?user=nivwer&theme=nord&hide_border=true&border_radius=0&stroke=888888&ring=888888&currStreakLabel=888888&fire=d8dee9&sideLabels=888888&background=000000&currStreakNum=d8dee9&sideNums=d8dee9" alt="GitHub Streak" />
+  <img  height="auto" width="717px" src="/img/header.png" />
+  <img height="auto" width="430px" src="https://github-readme-stats.vercel.app/api?username=nivwer&show_icons=true&count_private=true&theme=nord&hide_border=true&hide=issues&bg_color=000000&title_color=888888&icon_color=888888&border_radius=0">
+  <img height="auto" width="284px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivwer&layout=compact&hide_border=true&theme=nord&bg_color=000000&title_color=888888&icon_color=888888&border_radius=0&langs_count=5&hide=css">
+  <img height="auto" width="294px" src="https://steamuserimages-a.akamaihd.net/ugc/1688275952686404152/803DFB22DBD6FBADC1D3D7CB74D177781E2CB921/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
+  <img height="auto" width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=nivwer&theme=nord&hide_border=true&border_radius=0&stroke=888888&ring=888888&currStreakLabel=888888&fire=d8dee9&sideLabels=888888&background=000000&currStreakNum=d8dee9&sideNums=d8dee9" alt="GitHub Streak" />
 </p>
-
-
-
-<br/>
-<h2 align="center" >Skills</h2>
 
 <p align="center">
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
@@ -51,7 +53,7 @@
 </p>
 
 
--->
+
 
 
 <!--
