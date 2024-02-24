@@ -1,6 +1,4 @@
 <!--
-## I'm nivwer, Self-Taught Programmer
--->
 <h2 align="left" >I'm nivwer</h2>
 
 ```
@@ -53,13 +51,10 @@
 </p>
 
 
-
-
-
+-->
 
 
 <!--
-<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
