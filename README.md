@@ -1,7 +1,6 @@
-<!--
 <p align="center">
   <img alt="nivwer header" height="auto" width="725px" src="/img/header.png" />
-  <img alt="nivwer about" height="auto" width="725px" src="/img/about2.png" />
+  <img alt="nivwer about" height="auto" width="725px" src="/img/about.png" />
   
   <img alt="GitHub Stats" height="auto" width="434px" src="https://github-readme-stats.vercel.app/api?username=nivwer&show_icons=true&count_private=true&theme=nord&hide=issues&hide_border=true&bg_color=000000&title_color=9199a0&icon_color=1e1a22&border_color=1e1a22&border_radius=0&text_color=ccd2e1">
   
@@ -39,6 +38,14 @@
   <a href="#"><img alt="VSC" src="https://img.shields.io/badge/vsc-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code"></a>
 </p>
 
+<p align="center">
+  <img height="auto" width="430px" src="/img/divider.png" />
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=nivwer&color=000000&style=for-the-badge"/></a>
+</p>
 
 
 <!--
@@ -51,9 +58,5 @@
 -->
 
 <!--
-<p align="center">
-  <img height=70px src='https://github.githubassets.com/images/mona-loading-dark.gif' />
-</p>
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=nivwer&color=000000&style=for-the-badge"/> 
+<img height=70px src='https://github.githubassets.com/images/mona-loading-dark.gif' />
 -->
