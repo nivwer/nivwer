@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <img alt="nivwer header" height="auto" width="725px" src="/img/header.png" />
   <img alt="nivwer about" height="auto" width="725px" src="/img/about.png" />
@@ -47,7 +48,7 @@
   <a href="#"><img src="https://komarev.com/ghpvc/?username=nivwer&color=000000&style=for-the-badge"/></a>
 </p>
 
-
+-->
 <!--
 
 - ⚡ Self-Taught Programmer
